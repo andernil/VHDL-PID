@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Anders/Documents/PID/PID.srcs/sources_1/new/PID_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PID_CONTROLLER
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Anders/Documents/PID/PID.srcs/sources_1/new/PID_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PID_tb

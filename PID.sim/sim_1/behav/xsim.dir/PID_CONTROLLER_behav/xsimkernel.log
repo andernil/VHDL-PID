@@ -1,0 +1,4 @@
+Running: xsim.dir/PID_CONTROLLER_behav/xsimk.exe -simmode gui -wdb PID_CONTROLLER_behav.wdb -simrunnum 0 -socket 62038
+Design successfully loaded
+Design Loading Memory Usage: 5884 KB (Peak: 5884 KB)
+Design Loading CPU Usage: 15 ms
